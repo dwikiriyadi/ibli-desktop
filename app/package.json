@@ -4,7 +4,7 @@
   "description": "Sebuah aplikasi manajemen data inventaris pada Laboratorium Informatika",
   "main": "./dist/main.js",
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": ">=0.18.1",
     "babel-runtime": "^6.23.0",
     "jsqrcode-modules": "^0.3.0",
     "qrcode-js": "0.0.2",
